@@ -70,10 +70,8 @@ This project analyses three years of synthetic e-commerce sales data for **Manju
 
 | Video | Description | Link |
 |---|---|---|
-| Dashboard Walkthrough — Full | Complete narrated tour of all 5 dashboards | [Watch on YouTube] (https://youtu.be/FIEMrfG4fLM)|
-| SQL Pipeline Walkthrough | ETL & EDA preview — Bronze to Gold layer (2× speed, 9 min) | [Watch on YouTube] (https://youtu.be/qJMVxWdo5MQ)|
-
-> **To update:** Upload your `.mp4` files to YouTube (set visibility to **Unlisted** so only people with the link can view), then replace `YOUR_VIDEO_ID_HERE` with the actual video IDs from the YouTube URLs.
+| Dashboard Walkthrough — Full | Complete narrated tour of all 5 dashboards       | [Watch on YouTube](https://youtu.be/FIEMrfG4fLM)|
+| SQL Pipeline Walkthrough | ETL & EDA preview — Bronze to Gold layer       | [Watch on YouTube](https://youtu.be/qJMVxWdo5MQ)|
 
 ---
 
@@ -261,4 +259,4 @@ Query `silver.anomalies` to review flagged records.
 **Ignatus Dennis Acquah** — Data Analyst  
 This project was built to sharpen and showcase skills in data engineering, SQL pipeline design, and business intelligence visualisation.
 
-Connect on [LinkedIn](www.linkedin.com/in/adignatus) · [YouTube](UCWVYX7RKq-HnxDSDdukqnjA)· [Kaggle Dataset](https://www.kaggle.com/datasets/hassanabsar/manju-bhai-gadgets-sales)
+Connect on [LinkedIn](https://www.linkedin.com/in/adignatus) · [YouTube](https://youtube.com/@datawith_adi?si=EMn9VwJFyhzmY8r5)
