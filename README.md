@@ -70,8 +70,8 @@ This project analyses three years of synthetic e-commerce sales data for **Manju
 
 | Video | Description | Link |
 |---|---|---|
-| Dashboard Walkthrough — Full | Complete narrated tour of all 5 dashboards | [Watch on YouTube](https://youtu.be/qJMVxWdo5MQ) |
-| SQL Pipeline Walkthrough | ETL & EDA preview — Bronze to Gold layer (2× speed, 9 min) | [Watch on YouTube](https://youtu.be/FIEMrfG4fLM) |
+| Dashboard Walkthrough — Full | Complete narrated tour of all 5 dashboards | [Watch on YouTube] (https://youtu.be/FIEMrfG4fLM)|
+| SQL Pipeline Walkthrough | ETL & EDA preview — Bronze to Gold layer (2× speed, 9 min) | [Watch on YouTube] (https://youtu.be/qJMVxWdo5MQ)|
 
 > **To update:** Upload your `.mp4` files to YouTube (set visibility to **Unlisted** so only people with the link can view), then replace `YOUR_VIDEO_ID_HERE` with the actual video IDs from the YouTube URLs.
 
