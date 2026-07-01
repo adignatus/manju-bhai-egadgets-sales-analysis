@@ -1,0 +1,42 @@
+# ─── Large data files (exceed GitHub 100MB limit) ───────────────────────────
+data/manju_bhai_sales.csv
+data/silver.sales_enriched_v1.csv
+data/gold_outputs/gold_city_sku_performance.csv
+
+# ─── Video files ─────────────────────────────────────────────────────────────
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ─── Tableau temporary / recovery files ──────────────────────────────────────
+~*.twbr
+*.twbr
+
+# ─── Microsoft Office temp files ─────────────────────────────────────────────
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# ─── OS generated files ──────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── SQL Server files ────────────────────────────────────────────────────────
+*.mdf
+*.ldf
+*.bak
+
+# ─── Python / virtual environments (if added later) ─────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
